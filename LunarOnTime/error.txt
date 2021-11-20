@@ -1,0 +1,335 @@
+Message: chrome not reachable
+  (Session info: chrome=95.0.4638.69)
+Stacktrace:
+Backtrace:
+	Ordinal0 [0x00F40C43+2493507]
+	Ordinal0 [0x00EDA4B1+2073777]
+	Ordinal0 [0x00DE24D0+1058000]
+	Ordinal0 [0x00DD7604+1013252]
+	Ordinal0 [0x00DD7E06+1015302]
+	Ordinal0 [0x00DD94D5+1021141]
+	Ordinal0 [0x00DD35E3+996835]
+	Ordinal0 [0x00DE3820+1062944]
+	Ordinal0 [0x00E347D2+1394642]
+	Ordinal0 [0x00E2580B+1333259]
+	Ordinal0 [0x00E02314+1188628]
+	Ordinal0 [0x00E0316F+1192303]
+	GetHandleVerifier [0x010C7BF6+1548950]
+	GetHandleVerifier [0x0117461C+2256060]
+	GetHandleVerifier [0x00FCC13B+518107]
+	GetHandleVerifier [0x00FCB1E0+514176]
+	Ordinal0 [0x00EDF53D+2094397]
+	Ordinal0 [0x00EE3418+2110488]
+	Ordinal0 [0x00EE3552+2110802]
+	Ordinal0 [0x00EECE81+2150017]
+	BaseThreadInitThunk [0x75325749+25]
+	RtlGetAppContainerNamedObjectPath [0x774FF790+288]
+	RtlGetAppContainerNamedObjectPath [0x774FF75E+238]
+
+Error Close chrome
+Message: chrome not reachable
+  (Session info: chrome=95.0.4638.69)
+Stacktrace:
+Backtrace:
+	Ordinal0 [0x00310C43+2493507]
+	Ordinal0 [0x002AA4B1+2073777]
+	Ordinal0 [0x001B24D0+1058000]
+	Ordinal0 [0x001A7604+1013252]
+	Ordinal0 [0x001A7E06+1015302]
+	Ordinal0 [0x001A94D5+1021141]
+	Ordinal0 [0x001A35E3+996835]
+	Ordinal0 [0x001B3820+1062944]
+	Ordinal0 [0x002047D2+1394642]
+	Ordinal0 [0x001F580B+1333259]
+	Ordinal0 [0x001D2314+1188628]
+	Ordinal0 [0x001D316F+1192303]
+	GetHandleVerifier [0x00497BF6+1548950]
+	GetHandleVerifier [0x0054461C+2256060]
+	GetHandleVerifier [0x0039C13B+518107]
+	GetHandleVerifier [0x0039B1E0+514176]
+	Ordinal0 [0x002AF53D+2094397]
+	Ordinal0 [0x002B3418+2110488]
+	Ordinal0 [0x002B3552+2110802]
+	Ordinal0 [0x002BCE81+2150017]
+	BaseThreadInitThunk [0x75325749+25]
+	RtlGetAppContainerNamedObjectPath [0x774FF790+288]
+	RtlGetAppContainerNamedObjectPath [0x774FF75E+238]
+	(No symbol) [0x00000000]
+
+Error Close chrome
+clickButton: Element null
+clickButton: Element null
+Message: chrome not reachable
+  (Session info: chrome=95.0.4638.69)
+Stacktrace:
+Backtrace:
+	Ordinal0 [0x00310C43+2493507]
+	Ordinal0 [0x002AA4B1+2073777]
+	Ordinal0 [0x001B24D0+1058000]
+	Ordinal0 [0x001A7604+1013252]
+	Ordinal0 [0x001A7E06+1015302]
+	Ordinal0 [0x001A94D5+1021141]
+	Ordinal0 [0x001A35E3+996835]
+	Ordinal0 [0x001B3820+1062944]
+	Ordinal0 [0x002047D2+1394642]
+	Ordinal0 [0x001F580B+1333259]
+	Ordinal0 [0x001D2314+1188628]
+	Ordinal0 [0x001D316F+1192303]
+	GetHandleVerifier [0x00497BF6+1548950]
+	GetHandleVerifier [0x0054461C+2256060]
+	GetHandleVerifier [0x0039C13B+518107]
+	GetHandleVerifier [0x0039B1E0+514176]
+	Ordinal0 [0x002AF53D+2094397]
+	Ordinal0 [0x002B3418+2110488]
+	Ordinal0 [0x002B3552+2110802]
+	Ordinal0 [0x002BCE81+2150017]
+	BaseThreadInitThunk [0x75325749+25]
+	RtlGetAppContainerNamedObjectPath [0x774FF790+288]
+	RtlGetAppContainerNamedObjectPath [0x774FF75E+238]
+	(No symbol) [0x00000000]
+
+Error Close chrome
+Message: chrome not reachable
+  (Session info: chrome=95.0.4638.69)
+Stacktrace:
+Backtrace:
+	Ordinal0 [0x00310C43+2493507]
+	Ordinal0 [0x002AA4B1+2073777]
+	Ordinal0 [0x001B24D0+1058000]
+	Ordinal0 [0x001A7604+1013252]
+	Ordinal0 [0x001A7E06+1015302]
+	Ordinal0 [0x001A94D5+1021141]
+	Ordinal0 [0x001A35E3+996835]
+	Ordinal0 [0x001B3820+1062944]
+	Ordinal0 [0x002047D2+1394642]
+	Ordinal0 [0x001F580B+1333259]
+	Ordinal0 [0x001D2314+1188628]
+	Ordinal0 [0x001D316F+1192303]
+	GetHandleVerifier [0x00497BF6+1548950]
+	GetHandleVerifier [0x0054461C+2256060]
+	GetHandleVerifier [0x0039C13B+518107]
+	GetHandleVerifier [0x0039B1E0+514176]
+	Ordinal0 [0x002AF53D+2094397]
+	Ordinal0 [0x002B3418+2110488]
+	Ordinal0 [0x002B3552+2110802]
+	Ordinal0 [0x002BCE81+2150017]
+	BaseThreadInitThunk [0x75325749+25]
+	RtlGetAppContainerNamedObjectPath [0x774FF790+288]
+	RtlGetAppContainerNamedObjectPath [0x774FF75E+238]
+	(No symbol) [0x00000000]
+
+Error Close chrome
+Message: chrome not reachable
+  (Session info: chrome=95.0.4638.69)
+Stacktrace:
+Backtrace:
+	Ordinal0 [0x00310C43+2493507]
+	Ordinal0 [0x002AA4B1+2073777]
+	Ordinal0 [0x001B24D0+1058000]
+	Ordinal0 [0x001A7604+1013252]
+	Ordinal0 [0x001A7E06+1015302]
+	Ordinal0 [0x001A94D5+1021141]
+	Ordinal0 [0x001A35E3+996835]
+	Ordinal0 [0x001B3820+1062944]
+	Ordinal0 [0x002047D2+1394642]
+	Ordinal0 [0x001F580B+1333259]
+	Ordinal0 [0x001D2314+1188628]
+	Ordinal0 [0x001D316F+1192303]
+	GetHandleVerifier [0x00497BF6+1548950]
+	GetHandleVerifier [0x0054461C+2256060]
+	GetHandleVerifier [0x0039C13B+518107]
+	GetHandleVerifier [0x0039B1E0+514176]
+	Ordinal0 [0x002AF53D+2094397]
+	Ordinal0 [0x002B3418+2110488]
+	Ordinal0 [0x002B3552+2110802]
+	Ordinal0 [0x002BCE81+2150017]
+	BaseThreadInitThunk [0x75325749+25]
+	RtlGetAppContainerNamedObjectPath [0x774FF790+288]
+	RtlGetAppContainerNamedObjectPath [0x774FF75E+238]
+	(No symbol) [0x00000000]
+
+Error Close chrome
+Thong tin: {'Email': 'haylachinhminh20148@gmail.com', 'Pass': '100_abc@123456', 'HotMail': 'caiditnhom6932@outlook.com', 'Link ': 'https://lnr.app/s/j40AW2', 'Proxy': '103.102.130.120:10000', 'Profile': 'Profile005', 'Point': nan, 'Lunar': nan, 'Time': nan}
+Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=95.0.4638.69)
+Stacktrace:
+Backtrace:
+	Ordinal0 [0x00310C43+2493507]
+	Ordinal0 [0x002AA4B1+2073777]
+	Ordinal0 [0x001B2608+1058312]
+	Ordinal0 [0x0019C026+966694]
+	Ordinal0 [0x001F7DF9+1342969]
+	Ordinal0 [0x001FB351+1356625]
+	Ordinal0 [0x001F5917+1333527]
+	Ordinal0 [0x001D2314+1188628]
+	Ordinal0 [0x001D316F+1192303]
+	GetHandleVerifier [0x00497BF6+1548950]
+	GetHandleVerifier [0x0054461C+2256060]
+	GetHandleVerifier [0x0039C13B+518107]
+	GetHandleVerifier [0x0039B1E0+514176]
+	Ordinal0 [0x002AF53D+2094397]
+	Ordinal0 [0x002B3418+2110488]
+	Ordinal0 [0x002B3552+2110802]
+	Ordinal0 [0x002BCE81+2150017]
+	BaseThreadInitThunk [0x75325749+25]
+	RtlGetAppContainerNamedObjectPath [0x774FF790+288]
+	RtlGetAppContainerNamedObjectPath [0x774FF75E+238]
+	(No symbol) [0x00000000]
+
+Error Close chrome
+Message: chrome not reachable
+  (Session info: chrome=95.0.4638.69)
+Stacktrace:
+Backtrace:
+	Ordinal0 [0x011E0C43+2493507]
+	Ordinal0 [0x0117A4B1+2073777]
+	Ordinal0 [0x010824D0+1058000]
+	Ordinal0 [0x01077604+1013252]
+	Ordinal0 [0x01077E06+1015302]
+	Ordinal0 [0x010794D5+1021141]
+	Ordinal0 [0x010735E3+996835]
+	Ordinal0 [0x01083820+1062944]
+	Ordinal0 [0x010D47D2+1394642]
+	Ordinal0 [0x010C580B+1333259]
+	Ordinal0 [0x010A2314+1188628]
+	Ordinal0 [0x010A316F+1192303]
+	GetHandleVerifier [0x01367BF6+1548950]
+	GetHandleVerifier [0x0141461C+2256060]
+	GetHandleVerifier [0x0126C13B+518107]
+	GetHandleVerifier [0x0126B1E0+514176]
+	Ordinal0 [0x0117F53D+2094397]
+	Ordinal0 [0x01183418+2110488]
+	Ordinal0 [0x01183552+2110802]
+	Ordinal0 [0x0118CE81+2150017]
+	BaseThreadInitThunk [0x75325749+25]
+	RtlGetAppContainerNamedObjectPath [0x774FF790+288]
+	RtlGetAppContainerNamedObjectPath [0x774FF75E+238]
+
+Error Close chrome
+Message: chrome not reachable
+  (Session info: chrome=95.0.4638.69)
+Stacktrace:
+Backtrace:
+	Ordinal0 [0x011E0C43+2493507]
+	Ordinal0 [0x0117A4B1+2073777]
+	Ordinal0 [0x010824D0+1058000]
+	Ordinal0 [0x01077604+1013252]
+	Ordinal0 [0x01077E06+1015302]
+	Ordinal0 [0x010794D5+1021141]
+	Ordinal0 [0x010735E3+996835]
+	Ordinal0 [0x01083820+1062944]
+	Ordinal0 [0x010D47D2+1394642]
+	Ordinal0 [0x010C580B+1333259]
+	Ordinal0 [0x010A2314+1188628]
+	Ordinal0 [0x010A316F+1192303]
+	GetHandleVerifier [0x01367BF6+1548950]
+	GetHandleVerifier [0x0141461C+2256060]
+	GetHandleVerifier [0x0126C13B+518107]
+	GetHandleVerifier [0x0126B1E0+514176]
+	Ordinal0 [0x0117F53D+2094397]
+	Ordinal0 [0x01183418+2110488]
+	Ordinal0 [0x01183552+2110802]
+	Ordinal0 [0x0118CE81+2150017]
+	BaseThreadInitThunk [0x75325749+25]
+	RtlGetAppContainerNamedObjectPath [0x774FF790+288]
+	RtlGetAppContainerNamedObjectPath [0x774FF75E+238]
+
+Error Close chrome
+Thong tin: {'Email': 'haylachinhminh20148@gmail.com', 'Pass': '100_abc@123456', 'HotMail': 'caiditnhom6932@outlook.com', 'Link ': 'https://lnr.app/s/j40AW2', 'Proxy': '103.102.130.120:10000', 'Profile': 'Profile005', 'Point': nan, 'Lunar': nan, 'Time': nan}
+Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=95.0.4638.69)
+Stacktrace:
+Backtrace:
+	Ordinal0 [0x011E0C43+2493507]
+	Ordinal0 [0x0117A4B1+2073777]
+	Ordinal0 [0x01082608+1058312]
+	Ordinal0 [0x0106C026+966694]
+	Ordinal0 [0x010C7DF9+1342969]
+	Ordinal0 [0x010CB351+1356625]
+	Ordinal0 [0x010C5917+1333527]
+	Ordinal0 [0x010A2314+1188628]
+	Ordinal0 [0x010A316F+1192303]
+	GetHandleVerifier [0x01367BF6+1548950]
+	GetHandleVerifier [0x0141461C+2256060]
+	GetHandleVerifier [0x0126C13B+518107]
+	GetHandleVerifier [0x0126B1E0+514176]
+	Ordinal0 [0x0117F53D+2094397]
+	Ordinal0 [0x01183418+2110488]
+	Ordinal0 [0x01183552+2110802]
+	Ordinal0 [0x0118CE81+2150017]
+	BaseThreadInitThunk [0x75325749+25]
+	RtlGetAppContainerNamedObjectPath [0x774FF790+288]
+	RtlGetAppContainerNamedObjectPath [0x774FF75E+238]
+
+Error Close chrome
+Thong tin: {'Email': 'vuvantuan171218@gmail.com', 'Pass': '100_abc@123456', 'HotMail': 'trandinhphuongd86620mt@hotmail.com', 'Link ': 'https://lnr.app/s/a4NenB', 'Proxy': '103.102.130.10:10000', 'Profile': 'Profile001', 'Point': nan, 'Lunar': nan, 'Time': nan}
+Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=95.0.4638.69)
+Stacktrace:
+Backtrace:
+	Ordinal0 [0x011E0C43+2493507]
+	Ordinal0 [0x0117A4B1+2073777]
+	Ordinal0 [0x01082608+1058312]
+	Ordinal0 [0x0106C026+966694]
+	Ordinal0 [0x010C7DF9+1342969]
+	Ordinal0 [0x010D4792+1394578]
+	Ordinal0 [0x010C580B+1333259]
+	Ordinal0 [0x010A2314+1188628]
+	Ordinal0 [0x010A316F+1192303]
+	GetHandleVerifier [0x01367BF6+1548950]
+	GetHandleVerifier [0x0141461C+2256060]
+	GetHandleVerifier [0x0126C13B+518107]
+	GetHandleVerifier [0x0126B1E0+514176]
+	Ordinal0 [0x0117F53D+2094397]
+	Ordinal0 [0x01183418+2110488]
+	Ordinal0 [0x01183552+2110802]
+	Ordinal0 [0x0118CE81+2150017]
+	BaseThreadInitThunk [0x75325749+25]
+	RtlGetAppContainerNamedObjectPath [0x774FF790+288]
+	RtlGetAppContainerNamedObjectPath [0x774FF75E+238]
+
+Error Close chrome
+Error Close chrome
+Thong tin: {'Email': 'nghiathanh9495@gmail.com', 'Pass': nan, 'HotMail': nan, 'Link ': nan, 'Proxy': '103.102.130.125:10000', 'Profile': 'Profile007', 'Point': nan, 'Lunar': nan, 'Time': nan}
+('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+Thong tin: {'STT': 2, 'Email': 'vuvantuan280921@gmail.com', 'Pass': '100_abc@123456', 'HotMail': 'aophaohangwfg151@outlook.com', 'Link ': 'https://lnr.app/s/pY0mPe', 'Proxy': '103.102.130.21:10000', 'Profile': 'Profile002', 'Point': nan, 'Lunar': nan, 'Time': nan}
+Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=85.0.4183.121)
+Stacktrace:
+Backtrace:
+	Ordinal0 [0x0062D383+3134339]
+	Ordinal0 [0x0051A171+2007409]
+	Ordinal0 [0x003BAEE8+569064]
+	Ordinal0 [0x003A8727+493351]
+	Ordinal0 [0x0035F440+193600]
+	Ordinal0 [0x00361BBC+203708]
+	Ordinal0 [0x0035EC37+191543]
+	Ordinal0 [0x00342E77+77431]
+	Ordinal0 [0x00343E3E+81470]
+	Ordinal0 [0x00343DC9+81353]
+	Ordinal0 [0x00530CD9+2100441]
+	GetHandleVerifier [0x0079B75A+1396954]
+	GetHandleVerifier [0x0079B3D9+1396057]
+	GetHandleVerifier [0x007A7126+1444518]
+	GetHandleVerifier [0x0079BCE8+1398376]
+	Ordinal0 [0x00527F51+2064209]
+	Ordinal0 [0x005322EB+2106091]
+	Ordinal0 [0x00532411+2106385]
+	Ordinal0 [0x005449C4+2181572]
+	BaseThreadInitThunk [0x76185749+25]
+	RtlGetAppContainerNamedObjectPath [0x7714F790+288]
+	RtlGetAppContainerNamedObjectPath [0x7714F75E+238]
+
+Error Close chrome
+Error Close chrome
+Error Close chrome
+Error Close chrome
+Error Close chrome
+clickButton: Element null
+Error Close chrome
+Error Close chrome
+Error Close chrome

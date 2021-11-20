@@ -1,0 +1,17 @@
+[
+  {
+      "command":"open",
+      "target":"https://lunarcrush.com/?interval=1w",
+      "value":""
+   },
+  {
+      "command":"sleep",
+      "target":"",
+      "value":"2"
+   },
+  {
+      "command":"StartAuto",
+      "target":"",
+      "value":""
+   }
+]

@@ -1,0 +1,11 @@
+{
+    "chromePath": "C:/Users/TRUONG/Desktop/LunarOnTime/modules/Table",
+    "profilePath": "D:/ProfileLunar",
+    "webRtcPath": "D:/Ecorau/Lunar/LunarOnTime/Extensions",
+    "scriptPath": "C:/Users/TRUONG/Desktop/LunarOnTime/modules/Table/CountRef.xlsx",
+    "proxyPath": "D:/Ecorau/Lunar/LunarOnTime/dist/DataLunar.xlsx",
+    "proxySheet": "Sheet2",
+    "maxThread": 3,
+    "timeDelay": 1,
+    "keyPath": "D:/Ecorau/Lunar/LunarOnTime/dist/configKeywords.json"
+}

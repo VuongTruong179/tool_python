@@ -1,0 +1,11 @@
+{
+    "chromePath": "C:/Program Files/Google/Chrome/Application/chrome.exe",
+    "profilePath": "C:/temp",
+    "webRtcPath": "C:/Users/84167/Desktop/extension",
+    "scriptPath": "C:/Users/84167/Desktop/GoogleForm.json",
+    "proxyPath": "C:/Users/84167/Desktop/ProfileDataTest (3).xlsx",
+    "proxySheet": "Sheet1",
+    "maxThread": 1,
+    "timeDelay": 1,
+    "keyPath": "C:/Users/84167/Desktop/configKeywords.json"
+}
